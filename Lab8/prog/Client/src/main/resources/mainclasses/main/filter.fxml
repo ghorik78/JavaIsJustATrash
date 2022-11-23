@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="300.0" styleClass="anchorPane" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mainclasses.main.DialogController">
+   <children>
+      <MenuButton fx:id="selectColumn" layoutX="36.0" layoutY="14.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="230.0" styleClass="menuItem" stylesheets="@style.css" text="Выберите значение" textFill="WHITE">
+         <items>
+            <MenuItem fx:id="id" mnemonicParsing="false" text="Номер" />
+            <MenuItem fx:id="name" mnemonicParsing="false" text="Имя" />
+            <MenuItem mnemonicParsing="false" text="Координата X" fx:id="xCoord" />
+            <MenuItem fx:id="yCoord" mnemonicParsing="false" text="Координата Y" />
+            <MenuItem fx:id="creationDate" mnemonicParsing="false" text="Дата создания" />
+            <MenuItem mnemonicParsing="false" text="Координата X начала" fx:id="xCoordFrom" />
+            <MenuItem fx:id="yCoordFrom" mnemonicParsing="false" text="Координата Y начала" />
+            <MenuItem fx:id="nameFrom" mnemonicParsing="false" text="Название начала" />
+            <MenuItem mnemonicParsing="false" text="Координата X цели" fx:id="xCoordTo" />
+            <MenuItem fx:id="yCoordTo" mnemonicParsing="false" text="Координата Y цели" />
+            <MenuItem fx:id="zCoordTo" mnemonicParsing="false" text="Координата Z цели" />
+            <MenuItem fx:id="distance" mnemonicParsing="false" text="Расстояние" />
+            <MenuItem fx:id="owner" mnemonicParsing="false" text="Владелец" />
+         </items>
+         <font>
+            <Font name="Franklin Gothic Medium Cond" size="16.0" />
+         </font>
+      </MenuButton>
+      <MenuButton fx:id="selectMethod" layoutX="36.0" layoutY="65.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="230.0" styleClass="menuItem" stylesheets="@style.css" text="Как фильтровать" textFill="WHITE">
+         <items>
+            <MenuItem fx:id="less" mnemonicParsing="false" text="Строго меньше" />
+            <MenuItem fx:id="lessEq" mnemonicParsing="false" text="Меньше или равно" />
+            <MenuItem fx:id="more" mnemonicParsing="false" text="Строго больше" />
+            <MenuItem fx:id="moreEq" mnemonicParsing="false" text="Строго или равно" />
+            <MenuItem fx:id="equals" mnemonicParsing="false" text="Равно" />
+         </items>
+         <font>
+            <Font name="Franklin Gothic Medium Cond" size="16.0" />
+         </font>
+      </MenuButton>
+      <Button fx:id="filterButton" layoutX="80.0" layoutY="158.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="141.0" styleClass="menuItem" text="Отфильтровать" textFill="WHITE">
+         <font>
+            <Font name="Franklin Gothic Medium Cond" size="15.0" />
+         </font>
+      </Button>
+      <TextField fx:id="filterTextField" layoutX="36.0" layoutY="116.0" prefHeight="25.0" prefWidth="230.0" />
+   </children>
+</Pane>

@@ -1,0 +1,441 @@
+[INFO ] 2022-05-17 00:53:41.748 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:41.751 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:52.004 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:52.004 [pool-2-thread-1] Commander - New route received. Name of received object: 123
+[INFO ] 2022-05-17 00:53:52.118 [pool-2-thread-1] Commander - Route 123 has been added.
+[INFO ] 2022-05-17 00:53:52.143 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:52.144 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:52.167 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 00:53:52.169 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 00:53:53.022 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:53.022 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:53.022 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:53.840 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:53.841 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:53.841 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:55.010 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:55.011 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:55.011 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:56.084 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:56.084 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:56.085 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:56.750 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:56.750 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:56.751 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:57.149 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:57.149 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:57.149 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:57.836 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:57.837 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:57.837 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:58.218 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:58.219 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:58.219 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:58.891 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:58.892 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:58.892 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:59.276 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.276 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.276 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:59.523 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.524 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.524 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:53:59.948 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.948 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:53:59.949 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:00.332 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:00.333 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:00.333 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:00.799 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:00.799 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:00.800 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:02.089 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:02.089 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:02.090 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:02.896 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:02.896 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:02.896 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:03.306 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:03.307 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:03.307 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:03.916 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:03.916 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:03.916 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:04.989 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:04.989 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:04.989 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:06.044 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:06.044 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:06.044 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:07.101 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:07.101 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:07.101 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:08.156 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:08.156 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:08.156 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:09.212 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:09.212 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:09.212 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:10.268 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:10.269 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:10.269 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:11.332 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:11.332 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:11.332 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:12.402 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:12.402 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:12.402 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:13.469 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:13.469 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:13.469 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:14.524 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:14.525 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:14.525 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:15.582 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:15.583 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:15.583 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:16.652 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:16.652 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:16.653 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:17.707 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:17.709 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:17.709 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:18.764 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:18.765 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:18.765 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:22.672 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:22.673 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:22.673 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:23.740 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:23.741 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:23.741 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 00:54:24.880 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 00:54:24.881 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 00:54:24.881 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:12:03.723 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:12:03.725 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:12:03.725 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:12:05.185 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:12:05.185 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:12:05.186 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:13:38.068 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:13:38.069 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:13:38.070 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:13:40.247 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:13:40.248 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:13:40.248 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:13:41.973 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:13:41.973 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:13:41.973 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:13:42.535 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:13:42.535 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:13:42.535 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:13:43.821 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:13:43.821 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:13:43.822 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:14:00.135 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:14:00.135 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:14:00.137 [pool-2-thread-1] Commander - New route received. Name of received object: 12322
+[INFO ] 2022-05-17 01:14:01.757 [pool-2-thread-1] Commander - Route 12322 has been added.
+[INFO ] 2022-05-17 01:14:02.110 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:14:02.110 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:14:02.110 [pool-2-thread-1] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:14:02.113 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:14:02.115 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:14:03.556 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:14:03.557 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:14:03.557 [pool-2-thread-1] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:14:03.557 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:14:19.307 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:14:19.308 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:14:19.308 [pool-2-thread-1] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:14:19.308 [pool-2-thread-1] Commander - New route received. Name of received object: 1
+[INFO ] 2022-05-17 01:14:24.562 [pool-2-thread-1] Commander - Route 1 has been added.
+[INFO ] 2022-05-17 01:14:26.435 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:14:26.436 [pool-2-thread-1] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:14:26.436 [pool-2-thread-1] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:14:26.436 [pool-2-thread-1] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:14:26.436 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:14:26.436 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:15:59.086 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:15:59.086 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:15:59.087 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:15:59.087 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:15:59.087 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:06.444 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.444 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.444 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.444 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.444 [pool-2-thread-2] Commander - New route received. Name of received object: 1
+[INFO ] 2022-05-17 01:16:06.831 [pool-2-thread-2] Commander - Route 1 has been added.
+[INFO ] 2022-05-17 01:16:06.972 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:16:06.973 [pool-2-thread-2] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:16:08.625 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:08.626 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:08.626 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:08.626 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:08.626 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:08.626 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:11.720 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:11.720 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:11.721 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:11.721 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:11.721 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:11.721 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:14.523 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:14.524 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:14.524 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:14.524 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:14.524 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:14.524 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:15.711 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:15.711 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:15.711 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:15.711 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:15.711 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:15.712 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:32.491 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:32.491 [pool-2-thread-2] Commander - Object with id 200 has been added to the collection.
+[INFO ] 2022-05-17 01:16:32.492 [pool-2-thread-2] Commander - Object with id 201 has been added to the collection.
+[INFO ] 2022-05-17 01:16:32.492 [pool-2-thread-2] Commander - Object with id 202 has been added to the collection.
+[INFO ] 2022-05-17 01:16:32.492 [pool-2-thread-2] Commander - Object with id 203 has been added to the collection.
+[INFO ] 2022-05-17 01:16:32.492 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:36.706 [pool-2-thread-2] Commander - Collection has been cleared.
+[INFO ] 2022-05-17 01:16:36.707 [pool-2-thread-2] Commander - Command "clear" has been executed.
+[INFO ] 2022-05-17 01:16:38.345 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:38.346 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:39.685 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:39.685 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:41.362 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:41.362 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:16:43.282 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:16:43.283 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:18:42.454 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:18:42.455 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:18:50.673 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:18:50.673 [pool-2-thread-1] Commander - New route received. Name of received object: a
+[INFO ] 2022-05-17 01:18:50.809 [pool-2-thread-1] Commander - Route a has been added.
+[INFO ] 2022-05-17 01:18:50.844 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:18:50.844 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:18:50.848 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:18:50.850 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:18:51.602 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:18:51.603 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:18:51.603 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:02.825 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:02.825 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:02.825 [pool-2-thread-1] Commander - New route received. Name of received object: b
+[INFO ] 2022-05-17 01:19:02.943 [pool-2-thread-1] Commander - Route b has been added.
+[INFO ] 2022-05-17 01:19:02.971 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:02.971 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:02.971 [pool-2-thread-1] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:02.971 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:19:02.971 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:19:06.948 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:06.949 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:06.949 [pool-2-thread-1] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:06.949 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:16.351 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:16.351 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:16.351 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:16.352 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:18.345 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:18.346 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:18.346 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:18.346 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:19.367 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:19.367 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:19.367 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:19.368 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:20.113 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.113 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.114 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.114 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:20.283 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.284 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.284 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.284 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:20.894 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.895 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.895 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:20.895 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:21.680 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.680 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.680 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.680 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:21.865 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.866 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.866 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:21.866 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:22.309 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:22.309 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:22.309 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:22.309 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:23.492 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.492 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.492 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.492 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:23.976 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.976 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.976 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:23.976 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:19:24.600 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:19:24.600 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:19:24.600 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:19:24.600 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:20:11.520 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:20:11.521 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:20:11.521 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:20:11.521 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:20:12.090 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.090 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.090 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.090 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:20:12.828 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.829 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.829 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:20:12.829 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:20:13.173 [pool-2-thread-2] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:20:13.173 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:20:13.174 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:20:13.174 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:22:01.638 [pool-2-thread-1] Commander - Object with id 196 has been added to the collection.
+[INFO ] 2022-05-17 01:22:01.639 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:22:01.639 [pool-2-thread-1] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:22:01.640 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:22:04.729 [pool-2-thread-1] Commander - Collection has been cleared.
+[INFO ] 2022-05-17 01:22:04.730 [pool-2-thread-1] Commander - Command "clear" has been executed.
+[INFO ] 2022-05-17 01:22:05.911 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:22:05.912 [pool-2-thread-1] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:22:05.912 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:22:06.883 [pool-2-thread-1] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:22:06.884 [pool-2-thread-1] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:22:06.884 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:23:14.148 [pool-2-thread-2] Commander - Object with id 204 has been added to the collection.
+[INFO ] 2022-05-17 01:23:14.148 [pool-2-thread-2] Commander - Object with id 205 has been added to the collection.
+[INFO ] 2022-05-17 01:23:14.148 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:23:16.220 [pool-2-thread-2] Commander - Collection has been cleared.
+[INFO ] 2022-05-17 01:23:16.220 [pool-2-thread-2] Commander - Command "clear" has been executed.
+[WARN ] 2022-05-17 01:23:17.006 [pool-2-thread-2] Commander - Collection is empty.
+[WARN ] 2022-05-17 01:23:18.190 [pool-2-thread-2] Commander - Collection is empty.
+[WARN ] 2022-05-17 01:23:39.705 [pool-2-thread-4] Commander - Collection is empty.
+[WARN ] 2022-05-17 01:23:40.736 [pool-2-thread-4] Commander - Collection is empty.
+[WARN ] 2022-05-17 01:23:41.593 [pool-2-thread-4] Commander - Collection is empty.
+[WARN ] 2022-05-17 01:24:15.201 [pool-2-thread-4] Commander - Collection is empty.
+[INFO ] 2022-05-17 01:24:23.812 [pool-2-thread-4] Commander - New route received. Name of received object: a
+[INFO ] 2022-05-17 01:24:23.930 [pool-2-thread-4] Commander - Route a has been added.
+[INFO ] 2022-05-17 01:24:23.959 [pool-2-thread-4] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:24:23.963 [pool-2-thread-4] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:24:23.965 [pool-2-thread-4] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:26:21.583 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:26:21.584 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:26:38.857 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:26:38.857 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:26:40.094 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:26:40.094 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:26:40.366 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:26:40.366 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:26:41.184 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:26:41.185 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:27:16.620 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:27:16.620 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:15.004 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:15.007 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:15.788 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:15.789 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:17.112 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:17.113 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:17.260 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:17.260 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:18.238 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:18.239 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:39.524 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:39.526 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:40.053 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:40.054 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:40.751 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:40.751 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:28:41.227 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:28:41.227 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:31:05.390 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:31:05.391 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:31:06.881 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:31:06.882 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:31:08.232 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:31:08.233 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:31:13.763 [pool-2-thread-1] Commander - Collection has been sorted.
+[ERROR] 2022-05-17 01:31:13.764 [pool-2-thread-1] Commander - Condition for adding isn't met.
+[INFO ] 2022-05-17 01:31:15.161 [pool-2-thread-1] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:31:15.162 [pool-2-thread-1] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:34.819 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:34.820 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:36.341 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:36.341 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:37.441 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:37.441 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:38.623 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:38.624 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:40.058 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:40.058 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:41.176 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:41.176 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:42.277 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:42.278 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:43.423 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:43.424 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:44.874 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:44.874 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:45.993 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:45.994 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:47.417 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:47.418 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:48.541 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:48.542 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:49.637 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:49.637 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:50.730 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:50.730 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:34:51.852 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:34:51.852 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:24.576 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:24.576 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:29.411 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:29.411 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:30.582 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:30.582 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:31.677 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:31.678 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:31.832 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:31.833 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:32.857 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:32.857 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:43.404 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:43.405 [pool-2-thread-2] Commander - New route received. Name of received object: 1231
+[INFO ] 2022-05-17 01:35:43.570 [pool-2-thread-2] Commander - Route 1231 has been added.
+[INFO ] 2022-05-17 01:35:43.626 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:43.626 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:43.629 [pool-2-thread-2] Commander - Collection has been sorted.
+[INFO ] 2022-05-17 01:35:43.632 [pool-2-thread-2] Commander - Command "add" has been executed.
+[INFO ] 2022-05-17 01:35:45.350 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:45.350 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:45.350 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:50.296 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:50.296 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:50.296 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:51.517 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:51.517 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:51.518 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:52.647 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:52.647 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:52.647 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:53.795 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:53.795 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:53.796 [pool-2-thread-2] Commander - Command "show" has been executed.
+[INFO ] 2022-05-17 01:35:54.916 [pool-2-thread-2] Commander - Object with id 206 has been added to the collection.
+[INFO ] 2022-05-17 01:35:54.916 [pool-2-thread-2] Commander - Object with id 207 has been added to the collection.
+[INFO ] 2022-05-17 01:35:54.916 [pool-2-thread-2] Commander - Command "show" has been executed.

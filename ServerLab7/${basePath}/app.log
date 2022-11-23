@@ -1,0 +1,14 @@
+[INFO ] 2022-04-26 14:18:05.870 [pool-2-thread-1] Commander - Command "help" has been executed
+[INFO ] 2022-04-26 14:19:03.660 [pool-2-thread-1] Commander - New route received. Name of received object: name
+[INFO ] 2022-04-26 14:19:03.707 [pool-2-thread-1] Commander - Route name has been added.
+[INFO ] 2022-04-26 14:19:03.722 [pool-2-thread-1] Commander - Collection has been sorted.
+[INFO ] 2022-04-26 14:19:03.722 [pool-2-thread-1] Commander - Command "add" has been executed.
+[INFO ] 2022-04-26 14:20:20.593 [pool-2-thread-1] Commander - Object with id 91 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.593 [pool-2-thread-1] Commander - Object with id 101 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.593 [pool-2-thread-1] Commander - Object with id 111 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Object with id 1 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Object with id 2 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Object with id 3 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Object with id 4 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Object with id 25 has been added to the collection.
+[INFO ] 2022-04-26 14:20:20.622 [pool-2-thread-1] Commander - Command "update" has been executed.

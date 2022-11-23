@@ -1,0 +1,2 @@
+remove_all_by_distance 1212
+show

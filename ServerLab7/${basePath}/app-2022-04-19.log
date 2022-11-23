@@ -1,0 +1,36 @@
+[INFO ] 2022-04-19 11:22:45.812 [main] Commander - Server is prepared.
+[INFO ] 2022-04-19 11:22:45.937 [main] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:22:45.953 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:23:00.973 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-19 11:23:00.989 [Thread-0] Commander - Command received: help
+[INFO ] 2022-04-19 11:23:01.005 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-19 11:23:01.005 [Thread-0] Commander - Command "help" has been executed
+[INFO ] 2022-04-19 11:23:01.005 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:23:19.966 [Thread-1] Commander - Route with id 350504765 has been serialized.
+[INFO ] 2022-04-19 11:23:19.994 [Thread-1] Commander - Route with id 350504765 has been serialized.
+[INFO ] 2022-04-19 11:23:19.994 [Thread-1] Commander - Shutting down...
+[INFO ] 2022-04-19 11:24:58.757 [main] Commander - Server is prepared.
+[INFO ] 2022-04-19 11:24:58.933 [main] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:24:58.933 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:25:00.859 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-19 11:25:00.875 [Thread-0] Commander - Command received: help
+[INFO ] 2022-04-19 11:25:00.883 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-19 11:25:00.883 [Thread-0] Commander - Command "help" has been executed
+[INFO ] 2022-04-19 11:25:00.883 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:25:59.779 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-19 11:25:59.779 [Thread-0] Commander - Command received: add
+[INFO ] 2022-04-19 11:25:59.779 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-19 11:25:59.779 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-19 11:25:59.787 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-19 11:25:59.787 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-19 11:25:59.787 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:26:01.676 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-19 11:26:01.676 [Thread-0] Commander - Command received: show
+[INFO ] 2022-04-19 11:26:01.692 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-19 11:26:01.692 [Thread-0] Commander - Command "show" has been executed.
+[INFO ] 2022-04-19 11:26:01.692 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-19 11:26:17.911 [Thread-1] Commander - Route with id 350504765 has been serialized.
+[INFO ] 2022-04-19 11:26:17.911 [Thread-1] Commander - Route with id 350504765 has been serialized.
+[INFO ] 2022-04-19 11:26:17.919 [Thread-1] Commander - Route with id 734221111 has been serialized.
+[INFO ] 2022-04-19 11:26:17.919 [Thread-1] Commander - Route with id 734221111 has been serialized.
+[INFO ] 2022-04-19 11:26:17.919 [Thread-1] Commander - Shutting down...

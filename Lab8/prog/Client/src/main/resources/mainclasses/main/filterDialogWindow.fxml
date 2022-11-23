@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="178.0" prefWidth="300.0" styleClass="anchorPane" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mainclasses.main.MainSceneController">
+   <children>
+      <MenuButton fx:id="menuButton" layoutX="30.0" layoutY="25.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="240.0" styleClass="menuButtons" stylesheets="@style.css" text="По какому значению" textFill="WHITE">
+         <items>
+            <MenuItem fx:id="id" mnemonicParsing="false" text="Номер" />
+            <MenuItem mnemonicParsing="false" text="Имя" fx:id="xCoord" />
+            <MenuItem mnemonicParsing="false" text="Координата X" />
+            <MenuItem mnemonicParsing="false" text="Координата Y" />
+            <MenuItem mnemonicParsing="false" text="Дата создания" />
+            <MenuItem mnemonicParsing="false" text="Координата X начала" />
+            <MenuItem mnemonicParsing="false" text="Координата Y начала" />
+            <MenuItem mnemonicParsing="false" text="Название начала" />
+            <MenuItem mnemonicParsing="false" text="Координата X конца" />
+            <MenuItem mnemonicParsing="false" text="Координата Y конца" />
+            <MenuItem mnemonicParsing="false" text="Координата Z конца" />
+            <MenuItem mnemonicParsing="false" text="Расстояние" />
+            <MenuItem mnemonicParsing="false" text="Владелец" />
+         </items>
+         <font>
+            <Font name="Franklin Gothic Medium Cond" size="18.0" />
+         </font>
+      </MenuButton>
+      <TextField fx:id="filterTextField" layoutX="30.0" layoutY="80.0" prefHeight="30.0" prefWidth="240.0" promptText="Значение" styleClass="textFields" stylesheets="@style.css" />
+      <Button fx:id="filterButton" layoutX="105.0" layoutY="134.0" mnemonicParsing="false" styleClass="menuItem" stylesheets="@style.css" text="Отфильтровать" textFill="WHITE">
+         <font>
+            <Font name="Franklin Gothic Medium Cond" size="51.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

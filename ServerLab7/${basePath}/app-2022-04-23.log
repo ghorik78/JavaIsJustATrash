@@ -1,0 +1,453 @@
+[INFO ] 2022-04-23 00:15:33.958 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 00:15:54.222 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 00:17:21.420 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 00:17:21.916 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 14:00:27.340 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 14:01:51.812 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 14:01:52.330 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 14:53:29.864 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 14:53:29.864 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 14:56:18.142 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 14:56:18.286 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 14:56:24.174 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 14:56:24.190 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 14:59:56.795 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 14:59:56.920 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:00:02.699 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:00:02.714 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:01:07.419 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:01:07.575 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:01:13.563 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:01:13.579 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:03:02.886 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:03:02.965 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:03:18.370 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:03:18.385 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:04:15.269 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:04:15.374 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:04:22.215 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:04:22.230 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:06:14.709 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:06:14.756 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:06:17.970 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:06:17.970 [Thread-0] Commander - Command received: help
+[INFO ] 2022-04-23 15:07:18.504 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:07:18.644 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:07:21.135 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:07:21.151 [Thread-0] Commander - Command received: help
+[INFO ] 2022-04-23 15:08:21.904 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:08:22.123 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:08:35.311 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:08:35.327 [Thread-0] Commander - Command received: d
+[INFO ] 2022-04-23 15:09:55.823 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:09:55.948 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:09:57.499 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:09:57.514 [Thread-0] Commander - Command received: dada
+[INFO ] 2022-04-23 15:10:43.385 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:10:43.463 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:10:51.052 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:10:51.052 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:12:51.804 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:12:51.866 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:12:54.801 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:12:54.801 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:21:09.700 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:21:09.841 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:21:15.398 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:22:15.972 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:22:16.099 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:22:17.535 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:22:17.550 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:22:33.560 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:22:33.718 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:22:35.037 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:22:35.037 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:22:44.116 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:22:44.272 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:22:49.705 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:22:49.705 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 15:23:04.388 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 15:23:04.538 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 15:23:06.654 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 15:23:06.654 [Thread-0] Commander - Command received: logIn
+[INFO ] 2022-04-23 16:21:59.205 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:22:36.775 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:23:11.170 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:23:31.298 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:23:58.327 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:24:55.035 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:25:33.225 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:25:33.381 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:26:22.785 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:26:23.098 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:27:17.869 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:27:18.010 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:28:41.455 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:28:41.502 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:28:57.165 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:28:57.274 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:29:12.311 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:29:12.342 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:30:56.239 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:30:56.380 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:31:26.317 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:31:26.395 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:33:19.529 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:33:20.013 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:34:50.347 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:34:50.367 [Thread-0] Commander - Command received: help
+[INFO ] 2022-04-23 16:35:16.812 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:35:17.515 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:35:17.890 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:35:17.906 [Thread-0] Commander - Command received: a
+[INFO ] 2022-04-23 16:36:19.641 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:36:20.344 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:36:20.735 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:36:20.735 [Thread-0] Commander - Command received: s
+[INFO ] 2022-04-23 16:39:03.971 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:39:04.414 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:39:07.784 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:39:07.799 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:40:45.074 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:40:45.559 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:40:46.522 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:40:46.537 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:41:25.122 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:41:25.419 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:41:36.322 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:41:36.338 [Thread-0] Commander - Command received: d
+[INFO ] 2022-04-23 16:41:57.124 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:41:57.860 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:41:58.314 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:41:58.314 [Thread-0] Commander - Command received: aboba
+[INFO ] 2022-04-23 16:50:29.009 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:50:29.504 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:51:56.588 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:51:56.603 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:53:17.956 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 16:53:18.522 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 16:53:21.997 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 16:53:21.997 [Thread-0] Commander - Command received: d
+[INFO ] 2022-04-23 16:53:21.997 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 16:53:21.997 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:17:05.990 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:17:06.021 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:26:55.589 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:26:55.605 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:28:05.875 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:28:06.937 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:28:50.302 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:28:50.318 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:28:50.318 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:29:23.861 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:29:24.770 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:29:24.770 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:29:24.770 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:29:24.770 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:29:26.104 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:29:26.104 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:29:26.104 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:29:27.279 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:29:27.279 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:29:27.279 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:30:10.207 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:30:11.259 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:30:47.206 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:30:48.015 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:30:50.223 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:30:50.223 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:30:50.223 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:32:35.308 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 17:32:36.170 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 17:32:44.787 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 17:32:44.803 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 17:32:44.803 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:07:04.496 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:07:04.621 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:07:12.655 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:07:12.803 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:12.803 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:12.803 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:07:26.874 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:07:27.108 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:27.108 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:27.108 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:07:37.886 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:07:37.886 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:37.886 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:07:37.886 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:09:52.919 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:09:52.977 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:10:02.254 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:10:02.286 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:10:02.286 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:10:02.286 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:11:56.777 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:11:56.980 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:12:12.977 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:12:13.008 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 18:12:13.008 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 18:12:13.008 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:13:13.594 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:13:13.859 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:13:16.651 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:13:16.683 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:13:16.683 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:13:30.092 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:13:30.139 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 18:13:30.139 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 18:13:30.139 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:13:42.090 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:13:42.090 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 18:13:42.090 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 18:13:42.090 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:14:43.052 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:14:43.052 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 18:14:43.052 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 18:14:43.052 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:14:51.236 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:14:51.345 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:14:51.345 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:14:58.121 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:14:58.403 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:14:58.403 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:14:58.403 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:16:43.487 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:16:43.519 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:21:11.372 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 18:21:11.436 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:21:55.145 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:21:55.192 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:21:55.192 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:22:20.098 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:22:20.114 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:22:20.114 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:22:31.713 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:22:31.839 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:22:31.839 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:22:31.839 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:22:40.828 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:22:40.828 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 18:22:40.828 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 18:22:48.241 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 18:22:48.337 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 18:22:48.337 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 18:22:48.337 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 19:00:13.350 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 19:00:13.381 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 19:03:41.761 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 19:03:41.792 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:15:13.245 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:15:13.276 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:15:46.968 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:15:47.140 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:15:58.627 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:15:58.627 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:16:52.974 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:16:53.114 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:16:58.889 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:16:58.936 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:16:58.936 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:16:58.936 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:11.484 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:11.516 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:11.516 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:13.844 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:13.891 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:13.891 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:13.891 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:19.651 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:19.807 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:17:19.807 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:17:19.807 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:22.477 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:22.539 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:22.539 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:22.539 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:34.615 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:17:34.756 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:40.550 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:40.644 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:40.644 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:17:40.644 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:17:49.018 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:17:58.768 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:17:58.924 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:18:04.269 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:18:04.316 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:18:04.316 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:18:04.316 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:18:10.367 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:18:44.275 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:18:44.416 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:18:50.773 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:18:50.820 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:18:50.820 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:18:50.820 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:19:31.066 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:19:31.081 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:19:31.081 [Thread-0] Commander - Command "help" has been executed
+[INFO ] 2022-04-23 22:19:31.081 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:19:33.624 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:19:33.640 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:19:33.640 [Thread-0] Commander - Command "help" has been executed
+[INFO ] 2022-04-23 22:19:33.640 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:19:39.547 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:21:01.265 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:21:01.468 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:21:03.189 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:21:03.236 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:21:03.236 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:21:03.236 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:21:09.627 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:21:09.658 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:21:09.658 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:21:09.658 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:21:09.658 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:21:09.658 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:21:34.694 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:21:34.897 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:21:39.644 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:21:39.691 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:21:39.706 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:21:39.706 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:21:39.706 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:21:39.706 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:22:01.793 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:22:01.933 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:22:06.543 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:22:06.590 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:22:06.652 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:22:06.652 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:22:06.652 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:22:06.652 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:22:45.674 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:22:45.831 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:22:49.843 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:22:49.890 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:22:49.890 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:22:49.890 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:22:55.213 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:22:55.244 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:22:55.275 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:22:55.275 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:22:55.275 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:22:55.275 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:28:05.092 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:28:27.064 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:28:28.152 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:28:34.595 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:28:35.120 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:35.120 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:35.120 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:28:42.596 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:28:43.457 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:43.457 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:43.457 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:28:50.188 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:28:50.217 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:50.217 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:28:50.217 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:29:50.556 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:29:50.596 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:29:50.596 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:29:50.596 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:29:57.211 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:29:57.383 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:30:21.249 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:30:21.529 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:34:28.194 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:34:28.538 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:34:45.756 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:34:46.199 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:34:46.199 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:34:51.108 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:34:51.425 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:34:51.425 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:34:51.425 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:34:56.939 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:34:57.773 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:34:57.976 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:34:57.976 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:34:57.976 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:34:57.976 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:36:46.241 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:36:46.523 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:36:54.542 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:36:54.792 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:36:54.792 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:36:54.792 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:37:01.273 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:37:01.574 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:37:01.589 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:37:01.589 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:37:01.589 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:37:01.589 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:37:44.922 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:37:45.156 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:37:50.180 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:37:50.461 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:37:50.461 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:37:50.461 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:37:57.244 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:37:57.276 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:37:57.323 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:37:57.323 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:37:57.323 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:37:57.323 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:38:30.127 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:38:30.361 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:38:33.424 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:38:33.580 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:38:33.580 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:38:33.580 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:38:38.678 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:38:38.709 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:38:38.740 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:38:38.740 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:38:38.740 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:38:38.740 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:39:02.653 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:39:02.872 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:39:08.013 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:39:08.060 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:39:08.091 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:39:08.091 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:39:08.091 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:39:08.091 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:39:36.252 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:39:37.158 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:39:45.309 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:39:45.356 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:39:45.387 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:39:45.402 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:39:45.402 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:39:45.402 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:04.597 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:46:04.988 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:20.349 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:46:20.396 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:46:20.396 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:46:20.396 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:25.282 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:46:25.314 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:46:25.345 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:46:25.345 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:46:25.345 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:46:25.345 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:39.666 [main] Commander - Server is prepared.
+[INFO ] 2022-04-23 22:46:40.041 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:44.765 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:46:44.797 [Thread-0] Commander - A response was sent to the user.
+[ERROR] 2022-04-23 22:46:44.797 [Thread-0] Commander - Error during command execution: logIn
+[INFO ] 2022-04-23 22:46:44.797 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:46:50.403 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:46:50.434 [Thread-0] Commander - New route received. Name of received object: test
+[INFO ] 2022-04-23 22:46:50.496 [Thread-0] Commander - Route test has been added.
+[INFO ] 2022-04-23 22:46:50.496 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:46:50.496 [Thread-0] Commander - Command "add" has been executed.
+[INFO ] 2022-04-23 22:46:50.496 [Thread-0] Commander - Collection has been sorted.
+[INFO ] 2022-04-23 22:47:30.705 [Thread-0] Commander - An object received from the user.
+[INFO ] 2022-04-23 22:47:30.893 [Thread-0] Commander - A response was sent to the user.
+[INFO ] 2022-04-23 22:47:30.893 [Thread-0] Commander - Command "show" has been executed.
+[INFO ] 2022-04-23 22:47:30.893 [Thread-0] Commander - Collection has been sorted.

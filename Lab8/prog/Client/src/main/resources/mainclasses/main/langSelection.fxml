@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="120.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <GridPane prefHeight="120.0" prefWidth="300.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <MenuButton fx:id="langSelection" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="40.0" minWidth="200.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="200.0" styleClass="menuItem" stylesheets="@style.css" text="Выберите язык" textFill="WHITE">
+              <items>
+                <MenuItem mnemonicParsing="false" text="Русский" />
+                <MenuItem mnemonicParsing="false" text="Беларускі" />
+                  <MenuItem mnemonicParsing="false" text="Latviski" />
+                  <MenuItem mnemonicParsing="false" text="Español (Ecuador)" />
+              </items>
+               <font>
+                  <Font name="Franklin Gothic Medium Cond" size="20.0" />
+               </font>
+               <GridPane.margin>
+                  <Insets bottom="10.0" left="50.0" right="50.0" top="10.0" />
+               </GridPane.margin>
+            </MenuButton>
+            <Button fx:id="acceptButton" mnemonicParsing="false" prefHeight="40.0" prefWidth="200.0" styleClass="menuItem" stylesheets="@style.css" text="Подтвердить" textFill="WHITE" GridPane.rowIndex="1">
+               <font>
+                  <Font name="Franklin Gothic Medium Cond" size="20.0" />
+               </font>
+               <GridPane.margin>
+                  <Insets bottom="10.0" left="50.0" right="50.0" top="10.0" />
+               </GridPane.margin>
+            </Button>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

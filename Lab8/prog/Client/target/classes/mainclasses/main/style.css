@@ -1,0 +1,17 @@
+.menuItem:hover{
+    -fx-background-color: #0046ff;
+}
+
+.menuItem {
+    -fx-background-color: #1a73e8;
+}
+
+.anchorPane {
+    -fx-background-color: #ffffff;
+}
+
+.textFields {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-border-radius: 6;
+}
